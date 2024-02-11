@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @neuro132
 - 👀 I’m interested in Artificial Intelligence and its application in Energy, Oil & gas industry
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on petroleum data analytics
+- 💞️ I’m looking to collaborate on energy data analytics
 - 📫 How to reach me neuro132@gmail.com
 
 <!---
